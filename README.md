@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trent Gregg
+# 👋 Hi, I'm Trenton Gregg
 
 🎯 **Aspiring IT & Cloud Support Technician**  
 🌩️ Building hands-on experience with **Microsoft Azure**, **Active Directory**, **network security**, and **ticketing systems** like **osTicket**.  
