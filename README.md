@@ -8,60 +8,43 @@
 
 ## 🧩 Skills & Technologies
 
-### ☁️ Cloud & Infrastructure
-- Microsoft Azure  
-- Azure Virtual Machines  
-- Azure Network Security Groups (NSGs)  
-- Azure Resource Manager fundamentals  
-- On-Premises Active Directory integration with Azure
-
-### 🔐 Networking & Security
-- Inspecting and analyzing network protocols  
-- Basic TCP/IP troubleshooting  
-- Firewalls & access control  
-- Network segmentation concepts
-
-### 🎫 Ticketing & Helpdesk Systems
-- osTicket Setup & Deployment  
-- Prerequisites and installation on Windows + IIS  
-- Post-installation configuration  
-- Ticket lifecycle workflows  
-- SLA + department management
+- 🔗 [Skills & Technologies Repository](https://github.com/trentdgregg-hub/skills-and-technologies)  
+- 🔗 [Networking & Security Repository](https://github.com/trentdgregg-hub/networking-and-security)  
+- 🔗 [Ticketing & Helpdesk Solutions Repository](https://github.com/trentdgregg-hub/ticketing-and-helpdesk-solutions)
 
 ---
 
 ## 🧪 Hands-On Projects
 
-### 🔹 **On-Premises Active Directory in Azure**
+### 🔹 On-Premises Active Directory in Azure
 **What I Did**
 - Deployed a Windows Server VM inside Azure  
-- Installed and configured **Active Directory Domain Services**  
+- Installed and configured Active Directory Domain Services  
 - Created and managed users, groups, and OUs  
-- Demonstrated authentication scenarios using a client VM  
+- Demonstrated client authentication scenarios  
 
-**Skills:** Azure VM provisioning, AD DS configuration, network connectivity
-
----
-
-### 🔹 **Azure Network Security Groups (NSGs) Lab**
-**What I Did**
-- Built a virtual network with segmented subnets  
-- Implemented NSG rules to allow/deny specific traffic  
-- Validated access using RDP, ICMP, and custom ports  
-- Inspected and evaluated traffic behavior  
-
-**Skills:** network security, rule-based access control, protocol inspection
+**Skills:** Azure VMs, Active Directory, Authentication
 
 ---
 
-### 🔹 **osTicket: Full Helpdesk Deployment**
+### 🔹 Azure Network Security Groups (NSGs) Lab
 **What I Did**
-- Installed osTicket with PHP, MySQL, and IIS  
-- Completed post-installation configuration  
-- Set up departments, agents, SLAs, and help topics  
-- Documented ticket lifecycle examples (Open → Assigned → Resolved → Closed)
+- Built segmented virtual networks  
+- Configured allow/deny traffic rules  
+- Tested RDP, ICMP, and custom ports  
+- Analyzed traffic behavior  
 
-**Skills:** system setup, helpdesk workflows, troubleshooting
+**Skills:** Network Security, Traffic Control, Troubleshooting
+
+---
+
+### 🔹 osTicket: Full Helpdesk Deployment
+**What I Did**
+- Installed osTicket with IIS, PHP, and MySQL  
+- Set up departments, agents, and SLAs  
+- Documented helpdesk workflows  
+
+**Skills:** Ticketing Systems, Workflow Design, Technical Support
 
 ---
 
@@ -75,15 +58,15 @@
 ---
 
 ## 🧭 What I’m Working On
-- Building more Azure labs  
-- Learning PowerShell for automation  
-- Creating documentation-style writeups for each project  
-- Preparing for Azure fundamentals certifications
+- Azure labs  
+- Learning PowerShell  
+- Writing documentation projects  
+- Studying for Azure certifications  
 
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/trentdgregg-hub](https://github.com/trentdgregg-hub)
+- **GitHub:** https://github.com/trentdgregg-hub
 
 ---
 
