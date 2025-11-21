@@ -62,12 +62,11 @@
 - Learning PowerShell  
 - Writing documentation projects  
 - Studying for Azure certifications  
+- Examining all paths of IT
+---
+
+
 
 ---
 
-## 📫 Connect with Me
-- **GitHub:** https://github.com/trentdgregg-hub
-
----
-
-Thanks for visiting — I’m always learning and happy to collaborate!
+Thanks for visiting
